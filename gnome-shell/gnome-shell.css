@@ -1,0 +1,10 @@
+#panel {
+      background-color: #303030;
+      box-shadow: none;
+}
+
+#panel:overview, #panel.unlock-screen, #panel.login-screen, #panel.lock-screen {
+  box-shadow: none;
+  background-color: transparent;
+  box-shadow: none;
+}
